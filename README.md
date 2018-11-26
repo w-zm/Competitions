@@ -8,3 +8,5 @@
 [GeekPwn数据追踪挑战赛](https://dt.geekpwn.org/index.html)-----------(8/???)
 
 [同盾科技声纹识别建模大赛](https://www.kesci.com/home/competition/5b4eb2cfe87957000f9024a4)-----------(4/386)
+
+[第三届融360天机智能金融算法挑战赛--赛题3（多金融场景下的模型训练）](http://openresearch.rong360.com/#/question)-----------(5/1298/1564)

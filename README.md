@@ -15,7 +15,7 @@
 
 [公开新闻预测A股行业板块动向](https://www.kesci.com/home/task/5cac39ea67205f002bdbf243)-----------(第一阶段13/306, 由于时间关系没有参加第二阶段)
 
-[KDD 2019 Context-Aware Multi-Modal Transportation Recommendation](https://dianshi.baidu.com/competition/29/rule)-----------(top 38)
+[KDD 2019 Context-Aware Multi-Modal Transportation Recommendation](https://dianshi.baidu.com/competition/29/rule)-----------(top 38/1696)
 
 [蚂蚁金服风险大脑：支付风险识别(内部赛)](https://dc.cloud.alipay.com/index#/topic/intro?id=12)-----------(top 1)
 

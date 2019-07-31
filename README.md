@@ -16,3 +16,6 @@
 [公开新闻预测A股行业板块动向](https://www.kesci.com/home/task/5cac39ea67205f002bdbf243)-----------(第一阶段13/306, 由于时间关系没有参加第二阶段)
 
 [蚂蚁金服风险大脑：支付风险识别(内部赛)](https://dc.cloud.alipay.com/index#/topic/intro?id=12)-----------(top 1)
+
+[贵在联通——“联创黔线”杯大数据应用创新大赛](https://www.kesci.com/home/competition/5be92233954d6e001063649a)-----------(a榜top1，b榜top 5)
+

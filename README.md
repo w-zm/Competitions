@@ -21,3 +21,5 @@
 
 [贵在联通——“联创黔线”杯大数据应用创新大赛](https://www.kesci.com/home/competition/5be92233954d6e001063649a)-----------(a榜top1，b榜top 5/359)
 
+[DigSci 科学数据挖掘大赛 2019](https://biendata.com/competition/digsci2019/leaderboard/)-----------(top3)
+

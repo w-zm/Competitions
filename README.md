@@ -1,7 +1,7 @@
 # Competitions
 记录打过的一些比赛。
 
-## 2019
+## 2018
 
 [美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afp4pptG&raceId=231654)-----------(9/3152)
 
@@ -15,7 +15,7 @@
 
 [2018年甜橙金融杯大数据建模大赛](http://www.dcjingsai.com/common/cmpt/2018%E5%B9%B4%E7%94%9C%E6%A9%99%E9%87%91%E8%9E%8D%E6%9D%AF%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)-----------(初赛top1, 复赛top16/1840/2204)
 
-## 2018
+## 2019
 
 [公开新闻预测A股行业板块动向](https://www.kesci.com/home/task/5cac39ea67205f002bdbf243)-----------(第一阶段13/306, 由于时间关系没有参加第二阶段)
 

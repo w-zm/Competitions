@@ -16,7 +16,7 @@
 
 |Name|Rank|QTY|
 |:---:|:---:|:---:|
-[公开新闻预测A股行业板块动向](https://www.kesci.com/home/task/5cac39ea67205f002bdbf243) | &ensp;phase1 13rd&ensp; | 306 |
+[公开新闻预测A股行业板块动向](https://www.kesci.com/home/task/5cac39ea67205f002bdbf243) | &ensp;&ensp;phase1 13rd&ensp;&ensp; | 306 |
 [&ensp;&ensp;KDD 2019 Context-Aware Multi-Modal Transportation Recommendation&ensp;&ensp;](https://dianshi.baidu.com/competition/29/rule) | 38th | &emsp;&emsp;1696&emsp;&emsp; |
 [蚂蚁金服风险大脑：支付风险识别(内部赛)](https://dc.cloud.alipay.com/index#/topic/intro?id=12) | 1st | ??? |
 [贵在联通——“联创黔线”杯大数据应用创新大赛](https://www.kesci.com/home/competition/5be92233954d6e001063649a) | 1st | 359 |

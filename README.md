@@ -3,6 +3,11 @@
 
 ## 2018
 
+name | 价格 |  数量  
+-|-|-
+[美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afp4pptG&raceId=231654) | 9rd | 3152 |
+[2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4) | 32nd | 2751 |
+
 [美年健康AI大赛——双高疾病风险预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afp4pptG&raceId=231654)-----------(9/3152)
 
 [2018中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4)-----------(32/2751)

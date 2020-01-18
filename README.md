@@ -25,3 +25,9 @@
 [平安医疗科技疾病问答迁移学习比赛](https://www.biendata.com/competition/chip2019/) | 1st | 364 |
 [中文临床试验筛选标准短文本分类竞赛](cips-chip.org.cn/evaluation) | 1st | ??? |
 [OAG-WhoIsWho 赛道二](https://biendata.com/competition/aminer2019_2/) | 7rd | 444 |
+
+## 2020
+
+|Name|Rank|QTY|
+|:---:|:---:|:---:|
+[WSDM - DiggSci 2020](https://biendata.com/competition/wsdm2020/) | ??? | 580 |

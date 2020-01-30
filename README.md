@@ -30,4 +30,4 @@
 
 |Name|Rank|QTY|
 |:---:|:---:|:---:|
-[WSDM - DiggSci 2020](https://biendata.com/competition/wsdm2020/) | ??? | 580 |
+[WSDM - DiggSci 2020](https://biendata.com/competition/wsdm2020/) | 3 | 580 |
